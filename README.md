@@ -7,10 +7,10 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=221a1c)
 
-https://github-readme-stats-ruby-one.vercel.app
+
 ## GitHub Stats
 <a href="https://github.com/dannguyen9219/dannguyen9219">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=dannguyen9219&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=221a1c" alt="Dan Nguyen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannguyen9219&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=221a1c" alt="Dan Nguyen's GitHub Stats" />
 </a>
 <br></br>
 <a href="https://dannguyen9219.github.io/dannguyen-website/">
